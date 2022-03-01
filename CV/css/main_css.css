@@ -1,0 +1,36 @@
+/*html {
+    /*padding: 0.25em;
+    background-color: #f1f1f1;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.03em;
+    color: #1b1b1b;*/
+
+
+header {
+    background-color: #293E64;
+    list-style-type: none;
+    margin: 0px;
+    padding: 1px;
+    overflow: hidden;
+    color: #85A8BF;
+}
+
+section.main {
+    padding: 0px 1em;
+}
+
+th {text-align: left;}
+td.content {padding-left: 1em;}
+
+footer{
+    clear: both;
+    width: 100%;
+    padding-bottom: 2px;
+    margin-top: 1em;
+    border-top: 2px solid #293E64;
+    background-color: #85A8BF;
+}
+
+footer a {
+    color: #1b1b1b;    
+}
